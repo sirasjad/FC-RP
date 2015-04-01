@@ -8,13 +8,13 @@ Here's a list of all the features it contains:
 * Dynamic Doors system
 * Basic administrator commands
 * Basic roleplay commands
-* Reports handling system with a dynamic mute system which unmutes the player after the specified minutes
-* Newbie chat system with a dynamic mute system which unmutes the player after the specified minutes
 * Animation system
 * Server-side money system
 * Independant spawn system
 * Anti-health/armour hack system
 * Real world time sync
 * Log out spot saving
+* Newbie chat system with a dynamic mute system which unmutes the player after the specified minutes
+* Reports handling system with a dynamic mute system which unmutes the player after the specified minutes
 
 Enjoy the gamemode.
