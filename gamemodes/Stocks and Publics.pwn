@@ -4158,6 +4158,7 @@ stock IsValidSkin(skinid)
 		case 167..263: return 1;
 		case 269..273: return 1;
 		case 289..299: return 1;
+		case 300..311: return 1;
 		default: return 0;
 	}
 	return 1;
